@@ -49,8 +49,8 @@ Ensure you have the following installed:
 ### Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/chatbot-gui.git
-   cd chatbot-gui
+   git clone https://github.com/biswa365/chatbot_development_using_ollama.git
+   cd chatbot_development_using_ollama
    ```
 
 2. Install dependencies:
